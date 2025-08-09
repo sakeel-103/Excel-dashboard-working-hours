@@ -8,6 +8,11 @@ It uses **pivot tables, charts, and slicers** to make the data easy to understan
 
 ---
 
+## Dashboard Screenshots
+
+<img width="1411" height="684" alt="image" src="https://github.com/user-attachments/assets/261ea251-34f6-4117-9326-56863881b27e" />
+
+
 ## 🚀 Features
 
 - **Employee Working Hours Report** – Displays total working hours for each employee in a clean tabular format.
